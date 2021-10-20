@@ -4,7 +4,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/wbstack/magnustools.git"
+            "url": "https://github.com/toban/magnustools.git"
         }
     ],
     "require": {
